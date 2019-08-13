@@ -24,3 +24,5 @@ digitalWrite(LED_BUILTIN, LOW);
 delay(1000);
    
 }
+
+// dodalem se komenta xd
