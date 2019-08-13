@@ -26,3 +26,4 @@ delay(1000);
 }
 
 // dodalem se komenta xd
+// kolejny comment na drugi commit
